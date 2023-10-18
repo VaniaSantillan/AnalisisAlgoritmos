@@ -6,7 +6,7 @@ function Selectionsort(A){
                 m=j
             }
         }
-        t= A[m]
+       		t= A[m]
 		A[m]=A[i]
 		A[i]=t
     }
